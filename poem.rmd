@@ -24,3 +24,7 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+When days grow short and nights get cold  
+And autumn trees turn red and gold  
+Move, we may, through sun drenched days  
+'Midst leaves and berries and bales of hay  
